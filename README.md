@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="22px">
+### Hi there <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px">
 
 <!--
 **mvibraim/mvibraim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
