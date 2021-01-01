@@ -1,6 +1,6 @@
 ### Hi there <img src="icons/hi.gif" width="20px">
 
-<table style="width:100%; border:none; margin-left:-1.2em">
+<table>
   <tr>
     <td align="center">
       <a href="https://elixir-lang.org/" rel="noopener noreferrer"><img src="icons/elixir.png" width="30px" alt="Elixir"></a>
