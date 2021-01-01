@@ -6,30 +6,30 @@
       <a href="https://elixir-lang.org/" rel="noopener noreferrer"><img src="icons/elixir.png" width="30px" alt="Elixir"></a>
     </td>
     <td align="center">
-      <a href="https://www.phoenixframework.org/" rel="noopener noreferrer"><img src="icons/phoenix.png" width="38px" alt="Phoenix Framework"></a>
+      <a href="https://www.phoenixframework.org/" rel="noopener noreferrer"><img src="icons/phoenix.png" width="30px" alt="Phoenix Framework"></a>
     </td>
     <td align="center">
-      <a href="https://www.java.com/en/" rel="noopener noreferrer"><img src="icons/java.png" width="37px" alt="Java"></a>
+      <a href="https://www.java.com/en/" rel="noopener noreferrer"><img src="icons/java.png" width="30px" alt="Java"></a>
     </td>
     <td align="center">
-      <a href="https://spring.io/projects/spring-boot" rel="noopener noreferrer"><img src="icons/springboot.png" width="35px" alt="Spring Boot"></a>
+      <a href="https://spring.io/projects/spring-boot" rel="noopener noreferrer"><img src="icons/springboot.png" width="30px" alt="Spring Boot"></a>
     </td>
     <td align="center">
-      <a href="https://gradle.org/" rel="noopener noreferrer"><img src="icons/gradle.png" width="35px" alt="Gradle"></a>
+      <a href="https://gradle.org/" rel="noopener noreferrer"><img src="icons/gradle.png" width="30px" alt="Gradle"></a>
     </td>
     <td align="center">
-      <a href="https://nodejs.org/en/" rel="noopener noreferrer"><img src="icons/nodejs.png" width="35px" alt="Node.js"></a>
+      <a href="https://nodejs.org/en/" rel="noopener noreferrer"><img src="icons/nodejs.png" width="30px" alt="Node.js"></a>
     </td>
     <td align="center">
-      <a href="https://www.python.org/" rel="noopener noreferrer"><img src="icons/python.png" width="35px" alt="Python"></a>
+      <a href="https://www.python.org/" rel="noopener noreferrer"><img src="icons/python.png" width="30px" alt="Python"></a>
     </td>
     <td align="center">
-      <a href="https://golang.org/" rel="noopener noreferrer"><img src="icons/go.png" width="55px" alt="Go"></a>
+      <a href="https://golang.org/" rel="noopener noreferrer"><img src="icons/go.png" width="40px" alt="Go"></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.docker.com/" rel="noopener noreferrer"><img src="icons/docker.webp" width="40px" alt="Docker"></a>
+      <a href="https://www.docker.com/" rel="noopener noreferrer"><img src="icons/docker.webp" width="35px" alt="Docker"></a>
     </td>
     <td align="center">
       <a href="https://kubernetes.io/" rel="noopener noreferrer"><img src="icons/kubernetes.png" width="30px" alt="Kubernetes"></a>
@@ -53,10 +53,10 @@
       <a href="https://www.mongodb.com/" rel="noopener noreferrer"><img src="icons/mongodb.png" width="15px" alt="MongoDB"></a>
     </td>
     <td align="center">
-      <a href="https://aws.amazon.com/sqs/" rel="noopener noreferrer"><img src="icons/sqs.png" width="30px" alt="Amazon SQS"></a>
+      <a href="https://aws.amazon.com/sqs/" rel="noopener noreferrer"><img src="icons/sqs.png" width="25px" alt="Amazon SQS"></a>
     </td>
     <td align="center">
-      <a href="https://redis.io/" rel="noopener noreferrer"><img src="icons/redis.webp" width="35px" alt="Redis"></a>
+      <a href="https://redis.io/" rel="noopener noreferrer"><img src="icons/redis.webp" width="30px" alt="Redis"></a>
     </td>
     <td align="center">
       <a href="https://kafka.apache.org/" rel="noopener noreferrer"><img src="icons/kafka.png" width="20px" alt="Kafka"></a>
