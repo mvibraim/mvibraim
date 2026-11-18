@@ -24,6 +24,12 @@ Solving bugs, questioning assumptions and teaching machines a few tricks.
 ```
 
 **Some tools from my toolbox:**
-~~[Disabled Link](https://skillicons.dev/icons?i=aws,clojure,docker,dynamodb,elixir,go,ai,java,kafka,kubernetes,mongodb,notion,postgres,py,redis,ubuntu,vscode)~~
+
+<a>
+  <img title="Java | Python | Golang | Clojure | Elixir" src="https://skillicons.dev/icons?i=java,py,go,clojure,elixir" />
+  <img title="PostgreSQL | Redis | DynamoDB | MongoDB | Kafka" src="https://skillicons.dev/icons?i=postgres,redis,dynamodb,mongodb,kafka" />
+  <img title="AWS | Docker | Kubernetes | Ubuntu" src="https://skillicons.dev/icons?i=aws,docker,kubernetes,ubuntu" />
+  <img title="VS Code | Notion" src="https://skillicons.dev/icons?i=vscode,notion" />
+</a>
 
 *Making things work is good. Understanding why they work is better.*
