@@ -25,6 +25,7 @@ Solving bugs, questioning assumptions and teaching machines a few tricks.
 
 **Some tools from my toolbox:**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,clojure,docker,dynamodb,elixir,go,ai,java,kafka,kubernetes,mongodb,notion,postgres,py,redis,ubuntu,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,clojure,docker,dynamodb,elixir,go,ai,java,kafka,kubernetes,mongodb,notion,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,redis,ubuntu,vscode)](https://skillicons.dev)
 
 *Making things work is good. Understanding why they work is better.*
