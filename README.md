@@ -2,7 +2,7 @@
 
 **Software Engineer. Problem solver. AI explorer.**
 
-I enjoy turning complicated problems into simple solutions, designing systems that survive the unexpected, occasionally overthinking edge cases and exploring how AI can help build better software.
+I like taking messy problems and finding straightforward ways to fix them, designing systems that survive the unexpected, occasionally overthinking edge cases and exploring how AI can help build better software.
 
 ```bash
 $ whoami
@@ -17,7 +17,7 @@ $ cat interests.txt
 > Agents, automations and better workflows
 
 $ echo $PHILOSOPHY
-"Understand first. Simplify second. Code third."
+Understand first. Simplify second. Code third.
 
 $ echo $STATUS
 Solving bugs, questioning assumptions and teaching machines a few tricks.
